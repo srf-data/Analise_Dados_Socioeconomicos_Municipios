@@ -1,4 +1,4 @@
-# Análise dos dados socioeconômicos dos municípios
+# Análise dos Dados Socioeconômicos dos Municípios
 
 A análise foi realizada a partir da comparação entre municípios com **IDH abaixo de 0,75** e aqueles com **IDH igual ou superior a 0,75**, utilizando indicadores econômicos, sociais e demográficos disponíveis no conjunto de dados.
 
